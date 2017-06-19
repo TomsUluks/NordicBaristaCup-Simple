@@ -1,0 +1,3 @@
+Made by: Toms Uluks
+Using: PHP Storm
+Runs on: XAMPP Apache server (Port nr: 8888)
